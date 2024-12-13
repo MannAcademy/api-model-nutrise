@@ -1,1 +1,3 @@
 # CLOUD COMPUTIN
+
+Computasi awal
